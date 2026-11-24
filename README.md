@@ -96,34 +96,30 @@ Vite| Development environment
 
 📸 5. Project Output Screenshots
 
-1. Homepage
 
-"BlogSpace Homepage" (screenshots/homepage.png)
 
-2. Blog Listing
+## 📸 Project Screenshots
 
-"Blog Listing" (screenshots/blog-list.png)
+### 1. Homepage
+![Homepage](output/homepage.png)
 
-3. Artificial Intelligence
+### 2. Blog Listing
+![Blog List](output/blog-list.png)
 
-"AI Articles" (screenshots/AI.png)
+### 3. AI Category
+![AI Category](output/AI.png)
 
-4. Programming
+### 4. Programming Category
+![Programming](output/programming.png)
 
-"Programming Articles" (screenshots/programming.png)
+### 5. Responsive Design
+![Responsive Design](output/responsive-design.png)
 
-5. Responsive Design
+### 6. Technology Category
+![Technology](output/Technology.png)
 
-"Responsive Design" (screenshots/responsive-design.png)
-
-6. Technology
-
-"Technology Articles" (screenshots/Technology.png)
-
-7. Web Development
-
-"Web Development Articles" (screenshots/webdevelopment.png)
-
+### 7. Web Development Category
+![Web Development](output/webdevelopment.png)
 ---
 
 📁 6. Project Folder Structure
