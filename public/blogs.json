@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Getting Started with Web Development",
+    "category": "Web Development",
+    "author": "Khairunnisa",
+    "date": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900",
+    "description": "Learn the basics of building websites using HTML, CSS and JavaScript.",
+    "content": "Web development is the process of creating websites. HTML provides structure, CSS adds design, and JavaScript makes websites interactive."
+  },
+  {
+    "id": 2,
+    "title": "Why React is Popular",
+    "category": "Programming",
+    "author": "Alex Morgan",
+    "date": "2026-11-18",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=900",
+    "description": "Discover how React helps developers build interactive user interfaces.",
+    "content": "React is a JavaScript library used to build user interfaces. It helps developers create reusable components and modern web applications."
+  },
+  {
+    "id": 3,
+    "title": "Learning Python as a Beginner",
+    "category": "Programming",
+    "author": "Sarah Lee",
+    "date": "2026-11-15",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=900",
+    "description": "A simple guide to starting your programming journey with Python.",
+    "content": "Python is a beginner-friendly programming language. It is used in web development, automation, artificial intelligence and data science."
+  },
+  {
+    "id": 4,
+    "title": "Understanding Artificial Intelligence",
+    "category": "Artificial Intelligence",
+    "author": "John David",
+    "date": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=900",
+    "description": "Explore how artificial intelligence is changing our daily lives.",
+    "content": "Artificial Intelligence allows computers to perform tasks that usually require human intelligence. Examples include voice assistants and image recognition."
+  },
+  {
+    "id": 5,
+    "title": "Tips for Writing Better Code",
+    "category": "Technology",
+    "author": "Emily Rose",
+    "date": "2026-11-10",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=900",
+    "description": "Simple practices that make your code easier to read and maintain.",
+    "content": "Good code should be clear and organised. Use meaningful variable names, keep functions small and test your work regularly."
+  },
+  {
+    "id": 6,
+    "title": "The Future of Technology",
+    "category": "Technology",
+    "author": "Michael Smith",
+    "date": "2026-11-08",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=900",
+    "description": "Explore exciting technologies shaping the future.",
+    "content": "Artificial intelligence, cloud computing, robotics and cybersecurity are important areas shaping the future of technology."
+  }
+]
